@@ -12,7 +12,7 @@
             this.posicao = posicao;
             this.tab = tab;
             this.cor = cor;
-            this.qteMovimentos = qteMovimentos;
+            this.qteMovimentos = qteMovimentos = 0;
         }
     }
 }
